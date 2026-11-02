@@ -1,0 +1,10 @@
+__pycache__/*
+.__pycache__
+venv/
+.venv/
+pytest_cache/
+.coverage
+htmlcov/
+app.db
+*.db
+.pytest_cache
